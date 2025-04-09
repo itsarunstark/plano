@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">plano</string>
+    <string name="buttonText">Mock Click Button</string>
+    <string name="toastText">Mock Button is clicked</string>
+    <string name="marriedText">Married</string>
+    <string name="singleText">single</string>
+    <string name="relationshipText">in Relationship</string>
+</resources>
